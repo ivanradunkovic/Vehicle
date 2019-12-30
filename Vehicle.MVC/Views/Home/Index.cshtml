@@ -1,0 +1,25 @@
+﻿@model IEnumerable<Vehicle.Models.VehicleModelPoco>
+
+@{
+    ViewBag.Title = "Index";
+}   
+
+<div class="container">
+    <div class="row">
+        <h2 class="col-md-12 text-center">Welcome to the Vehicle app</h2>
+    </div>
+    <hr />
+    <div class="row">
+        <div class="col-md-12 text-center">
+            @Html.ActionLink("Click to enter", "Vehicle", null, new { @class = "btn btn-success btn-lg" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 text-left">
+            @Html.ActionLink("New vehicle", "NewVehicle", null, new { @class = "btn btn-default" })
+        </div>
+    </div>
+</div>
+
+
+

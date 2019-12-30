@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models.Common\bin\Debug\Vehicle.Models.Common.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models.Common\bin\Debug\Vehicle.Models.Common.pdb
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models.Common\obj\Debug\Vehicle.Models.Common.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models.Common\obj\Debug\Vehicle.Models.Common.pdb
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Models.Common\bin\Debug\Vehicle.Models.Common.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Models.Common\bin\Debug\Vehicle.Models.Common.pdb
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Models.Common\obj\Debug\Vehicle.Models.Common.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Models.Common\obj\Debug\Vehicle.Models.Common.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Models.Common\obj\Debug\Vehicle.Models.Common.pdb

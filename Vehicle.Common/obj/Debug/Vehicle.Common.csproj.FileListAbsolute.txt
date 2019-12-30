@@ -1,0 +1,8 @@
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Common\bin\Debug\Vehicle.Common.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Common\bin\Debug\Vehicle.Common.pdb
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Common\obj\Debug\Vehicle.Common.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Common\obj\Debug\Vehicle.Common.pdb
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Common\bin\Debug\Vehicle.Common.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Common\bin\Debug\Vehicle.Common.pdb
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Common\obj\Debug\Vehicle.Common.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Common\obj\Debug\Vehicle.Common.pdb

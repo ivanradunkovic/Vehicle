@@ -1,0 +1,43 @@
+﻿@using PagedList.Mvc;
+
+@model PagedList.IPagedList<Vehicle.Models.VehicleModelPoco>
+@{
+    ViewBag.Title = "Gets vehicles";
+}
+
+<h2>List of Vehicles</h2>
+
+@using (Html.BeginForm("GetVehicles", "Home", FormMethod.Get, new {id = "filterform"}))
+{
+    <div class="col-md-6">
+        @Html.TextBox("findVehicle", null, new { placeholder = "Search vehicle by makes" })
+        <input type="submit" value="Search" class="btn btn-sm btn-success" />
+    </div>
+    
+    <div>
+        @Html.DropDownList("makeId", (SelectList)ViewBag.Makes, "Show makes", new { @class = "btn btn-default dropdown-toggle" , onchange = "this.form.submit()" })
+    </div>
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.ActionLink("Make", "GetVehicles", new { sorting = ViewBag.SortMaker })
+        </dt>
+
+        @foreach (var item in Model)
+        {
+            <dt>
+                @Html.DisplayFor(itemModel => item.VehicleMake.Name)
+            </dt>          
+        }
+
+    </dl>
+}
+
+
+@Html.ActionLink("Back", "BackToCategories", null, new { @class = "btn btn-primary" })
+
+@Html.ActionLink("Back to home page", "BackToHomePage", null, new { @class = "btn btn-default" })
+
+@Html.PagedListPager(Model, pageNumber => Url.Action("GetVehicles", new { pageNumber, findVehicle = ViewBag.CurrentSearch, makeId = ViewBag.CurrentMaker, sortOrderByMaker = ViewBag.CurrentSort }))
+
+

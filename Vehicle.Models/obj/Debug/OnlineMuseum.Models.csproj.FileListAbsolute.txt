@@ -1,0 +1,9 @@
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models\bin\Debug\OnlineMuseum.Models.dll.config
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models\bin\Debug\OnlineMuseum.Models.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models\bin\Debug\OnlineMuseum.Models.pdb
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models\bin\Debug\OnlineMuseum.Models.Common.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models\bin\Debug\OnlineMuseum.Models.Common.pdb
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models\obj\Debug\OnlineMuseum.Models.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models\obj\Debug\OnlineMuseum.Models.csproj.CopyComplete
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models\obj\Debug\OnlineMuseum.Models.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Models\obj\Debug\OnlineMuseum.Models.pdb

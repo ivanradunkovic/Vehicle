@@ -1,0 +1,4 @@
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Common\bin\Debug\OnlineMuseum.Common.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Common\bin\Debug\OnlineMuseum.Common.pdb
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Common\obj\Debug\OnlineMuseum.Common.dll
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\OnlineMuseum.Common\obj\Debug\OnlineMuseum.Common.pdb
