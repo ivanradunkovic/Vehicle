@@ -122,6 +122,8 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MakeController.cs" />
+    <Compile Include="Controllers\ModelController.cs" />
     <Compile Include="Controllers\VehicleMakeController.cs" />
     <Compile Include="Controllers\VehicleModelController.cs" />
     <Compile Include="Global.asax.cs">
