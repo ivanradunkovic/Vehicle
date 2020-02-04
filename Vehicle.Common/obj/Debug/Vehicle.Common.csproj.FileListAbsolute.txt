@@ -6,3 +6,4 @@ C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Common\bin\Debug\Vehicle.Common.dl
 C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Common\bin\Debug\Vehicle.Common.pdb
 C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Common\obj\Debug\Vehicle.Common.dll
 C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Common\obj\Debug\Vehicle.Common.pdb
+C:\Users\Ivan\Desktop\Vehicle\Vehicle\Vehicle.Common\obj\Debug\Vehicle.Common.csprojAssemblyReference.cache
